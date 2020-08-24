@@ -1,4 +1,7 @@
-Here's how the worlds in this game work. The continents (groups of areas) are unlocked in a linear fashion, while the areas within the continents can be unlocked in any order. Once you have cleared all areas in a continent, you can proceed to the next
+Here's how the worlds in this game work. The continents (groups of areas) are unlocked in a linear fashion, while the areas within the continents can be unlocked in any order. Once you have cleared all areas in a continent, you can proceed to the next.
+
+The worlds listed here are in the order they will be unlocked.
+
 * North America
   * Suburbia (the first world)
   * New York
